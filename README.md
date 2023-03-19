@@ -10,3 +10,4 @@ https://reneedanielleb.github.io/Code-QUIZ/
 Screenshot:
 
 # License
+MIT License
