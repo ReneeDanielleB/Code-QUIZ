@@ -1,5 +1,5 @@
 //timer
-let count = 60;
+let count = 0;
 let timer;
 
 function startTimer() {
