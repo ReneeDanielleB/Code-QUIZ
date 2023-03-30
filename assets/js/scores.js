@@ -4,7 +4,7 @@ function displayHighScores () {
 }
 
 //Add highscores history with recent scores first
-highcores.sort(function (a, b) {
+highscores.sort(function (a, b) {
     return b.score - a.score;
 });
 
